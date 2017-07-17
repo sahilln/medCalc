@@ -1,0 +1,41 @@
+header{
+	color: white;
+	background-color: #858fff;
+	text-align: center;
+	padding-top: 50px;
+}
+
+header p {
+	font-size: 100px;
+	margin: 0px;
+	font-family: "Helvetica";
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+.main-section{
+	background-color: #858fff;
+	min-height: 1000px;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+}
+
+a{
+	color: white;
+	font-size: 20px;
+	font-family: "Helvetica";
+	text-decoration: none;
+}
+
+header a{
+    font-size: 100px;
+}
+
+a:hover{
+	color: yellow;
+}
