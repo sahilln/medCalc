@@ -1,28 +1,29 @@
 header{
-	color: white;
-	background-color: #858fff;
+	color: #943d4b;
+	background-color: #73d298;
 	text-align: center;
-	padding-top: 50px;
+	border-radius: 25px;
+	margin-bottom: 10px;
 }
 
-header p {
-	font-size: 100px;
-	margin: 0px;
-	font-family: "Helvetica";
+header a{
+	color: #943d4b
 }
 
 h1{
 	text-align: center;
-	color: white;
+	color: #943d4b;
 }
 
 .main-section{
-	background-color: #858fff;
-	min-height: 1000px;
+	background-color: #73d298;
+	height: auto;
 	padding: 20px;
 	text-align: center;
 	color: white;
 	padding-top: 50px;
+	padding-bottom: 50px;
+	border-radius: 25px;
 }
 
 a{
@@ -33,9 +34,20 @@ a{
 }
 
 header a{
-    font-size: 100px;
+    font-size: 70px;
 }
 
 a:hover{
-	color: yellow;
+	color: #943d4b;
+}
+
+.main-section a{
+	border-style: solid;
+	border-color: #943d4b;
+	border-radius: 25px;
+	padding: 10px;
+}
+
+html{
+	border-radius: 25px;
 }
